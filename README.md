@@ -29,8 +29,11 @@ To build a generalizable AI pipeline that:
 ## 📁 Folder Structure
 
 FutureSportler_Badminton_Analysis/
+
 ├── README.md # Project overview and usage instruction
+
 ├── requirements.txt # Python dependencies
+
 └── main.py # Main script to run the pipeline
 
 
