@@ -29,9 +29,9 @@ To build a generalizable AI pipeline that:
 ## 📁 Folder Structure
 
 FutureSportler_Badminton_Analysis/
-├── main.py # Main script to run the pipeline
+├── README.md # Project overview and usage instruction
 ├── requirements.txt # Python dependencies
-└── README.md # Project overview and usage instruction
+└── main.py # Main script to run the pipeline
 
 
 Due to GitHub file size limits, the `videos/` and `output/` folders are stored in a shared Google Drive folder:
