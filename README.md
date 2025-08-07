@@ -32,9 +32,10 @@ FutureSportler_Badminton_Analysis/
 
 ├── README.md # Project overview and usage instruction
 
-├── requirements.txt # Python dependencies
+├── main.py # Main script to run the pipeline 
 
-└── main.py # Main script to run the pipeline
+└── requirements.txt # Python dependencies
+
 
 
 Due to GitHub file size limits, the `videos/` and `output/` folders are stored in a shared Google Drive folder:
